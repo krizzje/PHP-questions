@@ -4,7 +4,7 @@
 Beschouw de volgende functie:
 
 f(x) = f(x-1) + f(x-2)
-waarbij f(0) = 1 en f(1) = 1 voor alle x >= 0
+waarbij f(1) = 1 en f(2) = 1 voor alle x >= 0
 
 schrijf hiervoor een functie welke _het bewijs laat zien_ op het scherm dat f(10) = 55
 
